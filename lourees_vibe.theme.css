@@ -11,7 +11,7 @@
 @import url(https://leafyluigi.github.io/discord-themes/pyrite/build/better-discord.css);
 
 :root {
-  --background-image: url(https://c.wallhere.com/images/f5/6f/f52731522854d78758e8af705e00-1636061.png!d);
+  --background-image: url(https://github.com/yar444ik/wow_theme/blob/main/background_image_kaneki_ken.png?raw=true);
   --user-modal-image: var(--background-image);
   --user-popout-image: var(--background-image);
   --background-attachment: fixed;
@@ -23,7 +23,7 @@
   --tooltip-color: #910b0b;
   --mention-background: var(--primary-color);
   --mention-opacity: 0.3;
-  --home-icon: url(https://cdn.discordapp.com/attachments/859460552685125652/872528666628866118/discord-avatar-513.png);
+  --home-icon: url(https://github.com/yar444ik/wow_theme/blob/main/discord-avatar.png?raw=true);
 
   --code-font: Monaco, Consolas, Courier, monospace;
   --body-font: Whitney, Helvetica Neue, Helvetica, sans-serif;
