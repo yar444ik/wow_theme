@@ -1,45 +1,32 @@
 /**
- * @name sosi hui
+ * @name lourees_vibe
  * @author yar444ik
- * @version 666
- * @description ebal ur mother
+ * @version 1.0
+ * @description Theme from our discord server, join to us ^_^
  * @source https://github.com/yar444ik/wow_theme.git
  * @website https://www.instagram.com/yar4ik_vodila/
  * @invite lourees
  */
-
-/* Import Base */
 @import url(https://leafyluigi.github.io/discord-themes/pyrite/build/base.css);
-
-/* Import BD Only Features */
 @import url(https://leafyluigi.github.io/discord-themes/pyrite/build/better-discord.css);
 
-/* Theme Base */
 :root {
-  --background-image: url(https://kartinkin.com/uploads/posts/2021-04/1617299610_16-p-krasnii-fon-anime-16.png);
+  --background-image: url(https://c.wallhere.com/images/f5/6f/f52731522854d78758e8af705e00-1636061.png!d);
   --user-modal-image: var(--background-image);
   --user-popout-image: var(--background-image);
   --background-attachment: fixed;
   --user-modal-attachment: var(--background-attachment);
   --user-popout-attachment: var(--background-attachment);
-  --primary-color: #ff0000;
-  --secondary-color: #920d0d;
-  --hover-color: #ff0000;
-  --tooltip-color: #bd2005;
+  --primary-color: #da0c0c;
+  --secondary-color: #880707;
+  --hover-color: #c41e1e;
+  --tooltip-color: #910b0b;
   --mention-background: var(--primary-color);
   --mention-opacity: 0.3;
-  --home-icon: url(https://wrongful.ru/data/avatars/l/9/9725.jpg?1611588843);
+  --home-icon: url(https://cdn.discordapp.com/attachments/859460552685125652/872528666628866118/discord-avatar-513.png);
 
-  /* For Advanced Users */
   --code-font: Monaco, Consolas, Courier, monospace;
   --body-font: Whitney, Helvetica Neue, Helvetica, sans-serif;
-  /* Below are currently unused but will be used in future. */
-  --background-filters: none;
-  --user-modal-filters: blur(3px);
-  --user-popout-filters: blur(3px);
-  --gradient-colors: var(--primary-color);
-  --gradient-direction: to bottom right;
-  --body-filters: none;
 
   /* Toggles. From 0 (disable) to 1 (enable). Anything outside of those values have NOT been tested and likely aren't supported. */
   --hide-member-list: 1;
@@ -58,8 +45,6 @@
   /* Using any of the below plugins? Change the 0 to a 1 */
   --channel-tabs-enabled: 0;
 }
-
-
 /* Feel free to edit these ones for Dark Mode */
 .theme-dark, .theme-dark .theme-light {
   --card-background: rgba(0,0,0,0.5);
@@ -67,7 +52,6 @@
   --middle-shading: rgba(0,0,0,0.3);
   --header-shading: rgba(0,0,0,0.7);
 }
-
 /* Feel free to edit these ones for Light Mode */
 .theme-light {
   --card-background: rgba(255,255,255,0.05);
